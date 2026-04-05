@@ -2,7 +2,7 @@
 
 > A 2D real-time virtual environment where users can move around and interact with each other through **proximity-based chat** — when you get close, chat connects; when you move away, it disconnects.
 
-![Virtual Cosmos Preview](https://via.placeholder.com/800x400/0a0a0f/7c3aed?text=Virtual+Cosmos)
+
 
 ---
 
@@ -51,7 +51,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/virtual-cosmos.git
+git clone https://github.com/SupercopV/Virtual-cosmos.git
 cd virtual-cosmos
 
 # Install server dependencies
